@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@headlessui/vue": "^1.7.23",
+    "better-sqlite3": "^12.2.0",
+    "shadcn-vue": "^2.2.0"
+  },
+  "devDependencies": {
+    "shadcn-nuxt": "^2.2.0"
+  }
+}
